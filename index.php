@@ -1,4 +1,10 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: weilai
+ * Date: 2018/8/24
+ * Time: 上午10:25
+ */
 require_once('./sphinxapi.php');
 $cl = new SphinxClient();
 //链接sphinx服务，ip、端口
