@@ -1,7 +1,3 @@
-### sphinxapi.php是php操作sphinx服务进程的开源工具
-
-### 交流，欢迎到留言https://message.phpisfuture.com
-
 <?php
 require_once('./sphinxapi.php');
 $cl = new SphinxClient();
